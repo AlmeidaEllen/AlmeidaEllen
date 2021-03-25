@@ -2,7 +2,7 @@
 
 My name is Ellen Miranda. 👱🏽‍♀️
 
- I'm studying systems analysis and development at @ BandTec Digital School. 
+ I'm studying Systems Analysis and Development at @ BandTec Digital School. 
 
 I'm passionate about technology. Always open to new challenges and ready to face changes. 💻
 
