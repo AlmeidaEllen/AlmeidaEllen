@@ -5,6 +5,6 @@ My name is Ellen Miranda. 👱🏽‍♀️
 
 I'm passionate about technology. Always open to new challenges and ready to face changes. 💻
 
-📍 from São Paulo, Brazil. 
+📍 from São Paulo. 
 
 ### 🌎 "Quanto mais eu sei, mais eu sou."
