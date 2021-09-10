@@ -1,10 +1,10 @@
 # Hey 👋
-## Hello World, I'm Leonardo Vicchietti Iannotta
+## I'm Ellen Miranda Almeida
 
 - 📚 Learning: Java
 - 📫 Contact me: ellenmiranda10@gmail.com
 - 👨‍🎓 Studying: Systems Analysis and Development
-- 🔨 Main Tools: Visual Studio Code and NetBeans
+- 🔨 Main Tools: Visual Studio Code, Visual Studio and NetBeans
 
  <div>
   <a href="https://github.com/AlmeidaEllen">
