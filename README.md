@@ -1,5 +1,5 @@
-# Hey 👋
-## I'm Ellen Miranda Almeida
+# Hey 👋 I'm Ellen Miranda Almeida
+
 
 - 📚 Learning: Java
 - 📫 Contact me: ellenmiranda10@gmail.com
