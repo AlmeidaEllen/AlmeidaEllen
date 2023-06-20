@@ -3,7 +3,7 @@ I'm Ellen Miranda
 
 - 📚 Learning: Java
 - 📫 Contact me: ellenmiranda10@gmail.com
-- 👨‍🎓 Graduated in: Systems Analysis and Development
+- 👨‍🎓 Graduated in Systems Analysis and Development
 
 
 <div>   
