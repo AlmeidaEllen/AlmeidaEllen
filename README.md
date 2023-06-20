@@ -3,7 +3,7 @@
 
 - 📚 Learning: Java
 - 📫 Contact me: ellenmiranda10@gmail.com
-- 👨‍🎓 Studying: Systems Analysis and Development
+- 👨‍🎓 Graduated in: Systems Analysis and Development
 - 🔨 Main Tools: Visual Studio Code, NetBeans and IntelliJ 
 
  <div>
