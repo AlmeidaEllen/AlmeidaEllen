@@ -1,8 +1,9 @@
-# Hey 👋
-I'm Ellen Miranda 
+🧠 Sobre mim
+🎓 Formada em Análise e Desenvolvimento de Sistemas
+💼 Desenvolvedora Back end
+🔐 Pesquisadora em Segurança em LLMs (Large Language Models)
+🧩 Interesse em IA, cibersegurança, agentes inteligentes e arquiteturas modernas
 
-- 📫 Contact me: ellenmiranda10@gmail.com
-- 👨‍🎓 Graduated in Systems Analysis and Development
 
 
 <div>   
